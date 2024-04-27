@@ -7,7 +7,7 @@
     "emulator": "emulator @6.7_Horizontal_Fold-in_API_34",
     "ios": "react-native run-ios",
     "lint": "eslint .",
-    "start": "react-native start",
+    "start": "react-native start --reset-cache",
     "test": "jest"
   },
   "dependencies": {
